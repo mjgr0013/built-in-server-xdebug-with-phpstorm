@@ -9,7 +9,7 @@ $ sudo apt-get install php-xdebug
 ```sh
 $ php -v
 ```
-You should see your Php Version and:
+You should see your Php Version and: <br />
 'with Xdebug v2.5.5, Copyright (c) 2002-2017, by Derick Rethans'
 
 - Locate xdebug.ini configuration file:
