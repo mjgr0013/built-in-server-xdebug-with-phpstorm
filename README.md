@@ -17,7 +17,7 @@ You should see your Php Version and:
 $ php --ini | grep xdebug
 ```
 - Edit the file and add these lines:
-> xdebug.remote_enable=on
+> xdebug.remote_enable=on <br />
 > xdebug.remote_connect_back=on
 
 Php settings ready!
